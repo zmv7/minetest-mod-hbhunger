@@ -1,6 +1,10 @@
 # Hunger with HUD bar [`hbhunger`]
 
-* Version: 0.7.1
+* Version: 0.8
+* Things updated by zmv7:
+* Using player meta instead of player-attached inventory to store satiation information
+* Used new translator(minetest internal)
+
 
 ## Using the mod
 
